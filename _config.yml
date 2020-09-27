@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "photography.galaevents.com"
+baseurl: "https://avi-141.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -7,7 +7,7 @@ google_analytics: "UA-46465113-2"
 # UI configs
 title: "Weddings by Gala Events"
 subtitle: "Every detail matters. Bringing dreams to life!"
-author: "Ram Patra"
+author: "Gala Events"
 header:
  title: "Wedding photography"
  subtitle: "by Gala Events"
