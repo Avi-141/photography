@@ -2,7 +2,7 @@
 baseurl: "https://avi-141.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+#google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Weddings by Gala Events"
